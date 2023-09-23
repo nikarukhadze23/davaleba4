@@ -1,0 +1,41 @@
+.submit{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+   color: white;
+}
+
+input{
+    display: block;
+    width: 250px;
+    height: 40px;
+}
+p{
+    color: rgb(255, 0, 0)
+}
+
+.checkbox,
+.radio{
+    width:15px;
+    height: auto;
+    display: inline;
+}
+
+a{
+    color: red;
+    font-size: 40px;
+}
+h2{
+    color: red;
+    font-size: xx-large;
+}
+
+
+h3{
+    color: goldenrod;
+    font-size: xx-large;
+}
+choose{
+    color: blue;
+}
+
